@@ -1,0 +1,23 @@
+{
+  "name": "my-billings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iliran11/my-billings.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iliran11/my-billings/issues"
+  },
+  "homepage": "https://github.com/iliran11/my-billings#readme",
+  "dependencies": {
+    "puppeteer": "^0.9.0"
+  }
+}
